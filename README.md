@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/piao0910/piao0910/tree/gh-pages) branch hosts the contents of this directory at <https://piao0910.github.io/piao0910/>.
-The permalink for this webpage version is <https://piao0910.github.io/piao0910/v/957ff8ebf04f1051aedb3fd17677e19ff2286b7a/>.
+The permalink for this webpage version is <https://piao0910.github.io/piao0910/v/83b0e9ed4dd7c73056ab2a954478e6b069b117b5/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://piao0910.github.io/piao0910/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`957ff8ebf04f1051aedb3fd17677e19ff2286b7a`](https://github.com/piao0910/piao0910/commit/957ff8ebf04f1051aedb3fd17677e19ff2286b7a).
+[`83b0e9ed4dd7c73056ab2a954478e6b069b117b5`](https://github.com/piao0910/piao0910/commit/83b0e9ed4dd7c73056ab2a954478e6b069b117b5).
